@@ -27,7 +27,8 @@ pageClass: device-page
 
 <!-- Notes END: Do not edit below this line -->
 
-
+## Info
+As of 3.4.2025, the ZHA in Home Assistand doesnt support this device properly. TS0601 by _TZE204_lpedvtvr, which is the GA type for water heating, only shows the firmware sensor.
 
 
 ## Exposes
