@@ -28,7 +28,9 @@ pageClass: device-page
 <!-- Notes END: Do not edit below this line -->
 
 
+## Pairing
 
+Hold any of the buttons for cca 5 seconds, the device will start blinking when in pairing mode.
 
 ## Exposes
 
